@@ -10,4 +10,4 @@ To run the program, enter this command into your console.
 ```
 ruby path\8ball.rb
 ```
-In place of `path` should be the path to the folder in which you placed `8points.rb` file.
+In place of `path` should be the path to the folder in which you placed `8ball.rb` file.
