@@ -1,5 +1,5 @@
 # 8ball
-![alt-текст](https://sarahlynnereul.files.wordpress.com/2015/09/8ball_fortune.gif)
+![alt-текст](https://ie.wampi.ru/2022/10/31/2022-10-31-13-55-58.gif)
 
 ## Description
 This program is written in ruby. 
